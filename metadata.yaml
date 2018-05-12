@@ -1,0 +1,31 @@
+_repo: The-Great-Captain--A-Story-of-the-Days-of-Sir-Walter-Raleigh_35896
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tynan, Katharine
+    aliases:
+    - Hinkson, Mrs. H. A.
+    - Hinkson, Katharine Tynan
+    - Tynan, Katherine
+    birthdate: 1861
+    deathdate: 1931
+    gutenberg_agent_id: '7598'
+    url: http://www.gutenberg.org/2009/agents/7598
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Tynan
+description: ''
+gutenberg_issued: '2011-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Raleigh, Walter, Sir, 1552?-1618 -- Fiction'
+- !lcc 'PR'
+title: 'The Great Captain: A Story of the Days of Sir Walter Raleigh'
+url: http://www.gutenberg.org/ebooks/35896
